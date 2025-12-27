@@ -16,10 +16,10 @@ The program follows these steps:
 - Conversion: It converts the user's input (dollars) into cents (integers) to avoid floating-point imprecision errors during calculation.
 - Greedy Algorithm: It sequentially subtracts the largest coin values possible from the total cents:
 
-- - Quarters (25¢)
-- - Dimes (10¢)
-- - Nickels (5¢)
-- - Pennies (1¢)
+  - Quarters (25¢)
+  - Dimes (10¢)
+  - Nickels (5¢)
+  - Pennies (1¢)
 
 - Output: It prints the final count of coins used.
 
